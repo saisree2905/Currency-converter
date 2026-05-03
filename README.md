@@ -28,11 +28,13 @@ This project demonstrates core Java concepts by building a functional currency c
 
 ## 📷 Screenshots
 
-```text
-/screenshots/home.png
-/screenshots/conversion.png
-/screenshots/result.png
-```
+<img width="547" height="357" alt="image" src="https://github.com/user-attachments/assets/75e7b938-cad1-4bc5-9e6a-9b6892d63061" />
+
+
+
+
+<img width="780" height="349" alt="image" src="https://github.com/user-attachments/assets/12aa355e-a455-44dc-a2a9-edfd4db92135" />
+
 
 ---
 
